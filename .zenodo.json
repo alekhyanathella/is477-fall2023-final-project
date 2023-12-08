@@ -1,0 +1,30 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0002-1329-6886",
+            "name": "Khayat, Naya"
+        },
+        {
+            "orcid": "0009-0007-5731-8721",
+            "name": "Nathella, Alekhya"
+        }
+    ],
+
+    "license": "Creative Commons Attribution 4.0 International",
+
+    "title": "Iris",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C56C76",
+            "relation": "isDocumentedBy",
+            "resource_type": "dataset"
+        }
+    ],
+
+    "keywords": ["ecology"],
+
+    "communities": [
+        {"identifier": "biology"}
+    ]
