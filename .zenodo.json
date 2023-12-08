@@ -1,5 +1,5 @@
 {
-    title": "IS 477 Fall 2023 Final Project",
+    "title": "IS 477 Fall 2023 Final Project",
 "description": "This is our final project using the Iris dataset to conduct an end-to-end reproducible analysis",
 "creators": [
     {
@@ -16,7 +16,7 @@
         "scheme": "doi",
         "identifier": "10.24432/C56C76",
         "relation": "ecology"
-}
+    }
 ],
 "access_right": "open",
 "upload_type": "data",
