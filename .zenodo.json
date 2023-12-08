@@ -1,30 +1,26 @@
 {
-    "creators": [
-        {
-            "orcid": "0009-0002-1329-6886",
-            "name": "Khayat, Naya"
-        },
-        {
-            "orcid": "0009-0007-5731-8721",
-            "name": "Nathella, Alekhya"
-        }
-    ],
+    title": "IS 477 Fall 2023 Final Project",
+"description": "This is our final project using the Iris dataset to conduct an end-to-end reproducible analysis",
+"creators": [
+    {
+        "name": "Khayat, Naya",
+        "orcid": "0009-0002-1329-6886"
+    },
+    {
+        "name": "Nathella, Alekhya",
+        "orcid": "0009-0007-5731-8721"
+    }
+],
+"related_identifiers": [
+    {
+        "scheme": "doi",
+        "identifier": "10.24432/C56C76",
+        "relation": "ecology"
+}
+],
+"access_right": "open",
+"upload_type": "data",
+"license": "Creative Commons Attribution 4.0 International"
+}
+}
 
-    "license": "Creative Commons Attribution 4.0 International",
-
-    "title": "Iris",
-
-    "related_identifiers": [
-        {
-            "scheme": "doi",
-            "identifier": "10.24432/C56C76",
-            "relation": "isDocumentedBy",
-            "resource_type": "dataset"
-        }
-    ],
-
-    "keywords": ["ecology"],
-
-    "communities": [
-        {"identifier": "biology"}
-    ]
