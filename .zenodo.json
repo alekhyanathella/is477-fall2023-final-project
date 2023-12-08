@@ -15,12 +15,10 @@
     {
         "scheme": "doi",
         "identifier": "10.24432/C56C76",
-        "relation": "ecology"
+        "relation": "cites"
     }
 ],
 "access_right": "open",
-"upload_type": "data",
-"license": "Creative Commons Attribution 4.0 International"
+"upload_type": "software",
+"license": "MIT"
 }
-
-
